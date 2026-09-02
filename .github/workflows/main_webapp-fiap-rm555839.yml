@@ -50,4 +50,4 @@ jobs:
           app-name: 'webapp-fiap-rm555839'
           slot-name: 'Production'
           package: '*.jar'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DD7047B11F264E63BC7162D1C18AEF27 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B9376A550F854064AAFBD2EB8C066A78 }}
